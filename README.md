@@ -10,6 +10,6 @@ will explode! Collect stars for a higher score!
 Use the left and right arrows to move the ship!
 
 ## In - game video
-![](./GalaxyDodger/GalaxyDodgerAnimation.gif)
+![](GalaxyDodgerAnimation.gif)
 
 # **Enjoy!**
